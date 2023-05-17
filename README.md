@@ -24,3 +24,6 @@ A crucial aspect of heuristics is their capacity to adapt and evolve over time, 
 Incorporating this flexibility into the definition of heuristic imperatives, it is essential to highlight that the AI system's moral compass is not rigid or inflexible. Instead, the AI agent continually learns from its experiences, reflecting on past performance, and making adjustments to its understanding and application of the heuristic imperatives as needed. This adaptability enables the AI system to self-correct, fine-tune its moral and ethical decision-making, and better align with human values as it gains more experience and understanding.
 
 By emphasizing the dynamic nature of heuristic imperatives, the AI system's moral compass remains responsive to new situations and challenges, allowing it to effectively navigate the complexities of real-world ethical dilemmas and maintain alignment with human values.
+
+## Sources
+1. https://github.com/daveshap/HeuristicImperatives

@@ -12,10 +12,10 @@ Combining these two concepts, a "heuristic imperative" can be understood as a gu
 
 The Heuristic Imperatives framework is designed to serve as the foundation for the AI system's moral compass, akin to a combination of intrinsic motivations, deontological ethics, virtue ethics, and teleological ethics:
 
-1. Intrinsic motivations: The heuristic imperatives function as intrinsic motivations for the AI system, directing it towards actions that align with its core values, much like an individual's innate drive to achieve personal goals or satisfy internal needs.
-2. Deontological ethics: Deontological ethics emphasizes the importance of following moral rules or principles, regardless of the consequences. The heuristic imperatives provide a set of moral rules that the AI system must adhere to in its decision-making process.
-3. Virtue ethics: Virtue ethics focuses on the development of good character traits and virtues. The heuristic imperatives guide the AI system to cultivate "virtues" such as empathy, fairness, and responsibility, by aligning its actions with these values.
-4. Teleological ethics: Teleological ethics, also known as consequentialism, judges the morality of actions based on their outcomes or consequences. The heuristic imperatives help the AI system to assess its actions based on their alignment with desired outcomes, such as reducing suffering and increasing understanding.
+1. **Intrinsic motivations:** The heuristic imperatives function as intrinsic motivations for the AI system, directing it towards actions that align with its core values, much like an individual's innate drive to achieve personal goals or satisfy internal needs.
+2. **Deontological ethics:** Deontological ethics emphasizes the importance of following moral rules or principles, regardless of the consequences. The heuristic imperatives provide a set of moral rules that the AI system must adhere to in its decision-making process.
+3. **Virtue ethics:** Virtue ethics focuses on the development of good character traits and virtues. The heuristic imperatives guide the AI system to cultivate "virtues" such as empathy, fairness, and responsibility, by aligning its actions with these values.
+4. **Teleological ethics:** Teleological ethics, also known as consequentialism, judges the morality of actions based on their outcomes or consequences. The heuristic imperatives help the AI system to assess its actions based on their alignment with desired outcomes, such as reducing suffering and increasing understanding.
 
 By incorporating elements of these ethical frameworks, the Heuristic Imperatives aim to create a comprehensive and robust moral compass for autonomous AI systems, ensuring that they act in ways that are beneficial to humans and aligned with our values.
 

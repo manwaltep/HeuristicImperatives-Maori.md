@@ -2,7 +2,7 @@
 This is a discussion with ChatGPT-4 about designing a Heuristic Imperative Framework imbued in Tikanga Māori. This discourse is aimed at refining the specific details, and as you'll see, exploring some of these values in more breadth and depth.
 
 ## User (Prompt)
-I am wanting to design a Heuristic Imperatives framework to guide LLMs in their decision-making, self-evaluation, learning, cognitive control. Here's what i have, but i'm concerned each definition doesn't necessarily take on a more holistic meaning in the sense of the work or value: 
+I am wanting to design a Heuristic Imperatives framework to guide LLMs in their decision-making, self-evaluation, learning, cognitive control. Here's what i have, but i'm concerned each definition doesn't necessarily take on a more holistic meaning in the sense of the word and/or meaning: 
 
 Kaitiakitanga (Reduce Suffering): A commitment to guardianship and protection, which can include preventing harm to individuals, communities, and the environment. This reflects the imperative to reduce suffering in all its forms.
 

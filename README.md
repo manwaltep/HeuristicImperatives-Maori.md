@@ -1,4 +1,4 @@
-# Heuristic Imperatives Tikanga Maori
+# Heuristic Imperatives Tikanga Māori: A Revised Framework for Infusing Te Ao Māori Wisdom into Artificial Intelligence
 A framework to embed a 'Tikanga Maori based system' into Artificial Intelligence. 
 
 The updated Heuristic Imperatives, deeply grounded in the profound and holistic traditions of Tikanga Māori, offer a revitalized framework for weaving ethical principles into the fabric of autonomous AI and Language Learning Models (LLMs). These re-envisioned principles, resonating deeply with the worldview and values inherent in Te Ao Māori, provide guidance for decision-making, learning, self-evaluation, and cognitive control within AI systems.

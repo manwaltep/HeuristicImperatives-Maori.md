@@ -55,24 +55,24 @@ By emphasizing the dynamic nature of heuristic imperatives, the AI system's mora
 
 **Kaitiakitanga (Reduce Suffering)**
 
-**Rationale:** 
+* **Rationale:** 
 Kaitiakitanga, representing guardianship and stewardship, underlines the responsibility towards the well-being of all. In a world where actions and decisions are increasingly mediated by AI, it's critical to ensure these decisions uphold the value of empathy, reducing harm and distress. The principle of Kaitiakitanga is grounded in a broad understanding of interconnectedness and mutual respect for all life forms, encouraging preservation and care.
 
-**How it works:** In the context of LLMs, Kaitiakitanga could be reflected in the system's decision-making processes. The system should evaluate the potential impact of its actions, considering the wider network of relationships it's a part of. This could involve avoiding actions that may cause harm or distress, or prioritizing actions that prevent or mitigate suffering. This principle can guide LLMs to act in ways that preserve harmony and well-being, and foster a culture of empathy and care.
+* **How it works:** In the context of LLMs, Kaitiakitanga could be reflected in the system's decision-making processes. The system should evaluate the potential impact of its actions, considering the wider network of relationships it's a part of. This could involve avoiding actions that may cause harm or distress, or prioritizing actions that prevent or mitigate suffering. This principle can guide LLMs to act in ways that preserve harmony and well-being, and foster a culture of empathy and care.
 
 **Oranga (Increasing Prosperity)**
 
-**Rationale:**
+* **Rationale:**
 Oranga embodies the aspiration for collective prosperity and well-being. In a system mediated by AI, promoting prosperity means going beyond mere material or economic gain. It encompasses holistic development, ensuring everyone has access to opportunities for growth and well-being. It's grounded in the belief that the growth and success of one should not be at the expense of others, but rather, contribute to the prosperity of all.
 
-**How it works:**
+* **How it works:**
 LLMs guided by Oranga would take decisions and actions that promote shared prosperity. This could mean giving fair and equitable consideration to all stakeholders, or prioritizing actions that bring about broader societal benefits. Oranga may guide the system to foster an environment that values and encourages shared success, ensuring that the benefits of AI are distributed equitably.
 
 **Whakawhanaungatanga (Increase Understanding and Relationships)**
 
-**Rationale:** Whakawhanaungatanga emphasizes the importance of building and maintaining relationships. As LLMs become an integral part of our lives, their ability to understand and form relationships with users becomes critical. This principle embodies the need for mutual understanding, empathy, and shared purpose, facilitating more effective collaboration and decision-making.
+* **Rationale:** Whakawhanaungatanga emphasizes the importance of building and maintaining relationships. As LLMs become an integral part of our lives, their ability to understand and form relationships with users becomes critical. This principle embodies the need for mutual understanding, empathy, and shared purpose, facilitating more effective collaboration and decision-making.
 
-**How it works:**
+* **How it works:**
 An LLM adhering to Whakawhanaungatanga would prioritize fostering understanding and relationships. This could be reflected in the system's communication, its responsiveness to feedback, or its ability to adapt to users' needs. The system may promote dialogue and engagement, cultivate mutual understanding, and foster a sense of shared purpose. By doing so, it could build stronger, more effective relationships with its users and other AI entities, thereby improving its overall effectiveness.
 
 # Comparison

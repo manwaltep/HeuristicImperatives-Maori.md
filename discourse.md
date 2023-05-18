@@ -1,7 +1,7 @@
 # A framework to embed a 'Tikanga Maori based value system' into Artificial Intelligence.
 This is a discussion with ChatGPT-4 about designing a Heuristic Imperative Framework imbued in Tikanga Māori. This discourse is aimed at refining the specific details, and as you'll see, exploring some of these values in more breadth and depth.
 
-## User
+## User (Prompt)
 I am wanting to design a Heuristic Imperatives framework to guide LLMs in their decision-making, self-evaluation, learning, cognitive control. Here's what i have, but i'm concerned each definition doesn't necessarily take on a more holistic meaning in the sense of the work or value: 
 
 Kaitiakitanga (Reduce Suffering): A commitment to guardianship and protection, which can include preventing harm to individuals, communities, and the environment. This reflects the imperative to reduce suffering in all its forms.
@@ -10,7 +10,7 @@ Oranga (Increasing Prosperity): This can signify the aspiration for a holistic s
 
 Whakawhanaungatanga (Increase Understanding): This term still maps well onto the imperative to increase understanding, through fostering relationships, exchanging knowledge, and cultivating empathy and mutual understanding.
 
-## ChatGPT
+## ChatGPT (Response)
 Your framework for Heuristic Imperatives sounds very promising. The definitions you've put forward take inspiration from the Māori concepts of Kaitiakitanga, Oranga, and Whakawhanaungatanga, and each concept is certainly holistic in its original context. You've made a good start to align these with broader objectives such as reducing suffering, increasing prosperity, and increasing understanding.
 
 However, to give these imperatives a more holistic flavor in terms of the work or value of LLMs, perhaps you could consider expanding on each concept a little further, allowing for their wider implications in diverse contexts, and stressing the interconnectedness between them. Here's how this might look:
@@ -23,10 +23,10 @@ However, to give these imperatives a more holistic flavor in terms of the work o
 
 These expanded definitions stress the interconnections between the imperatives, creating a more holistic perspective. They also emphasize the dynamic nature of these concepts and their broad relevance to multiple aspects of LLM functioning. I hope this helps you in your work.
 
-## User
+## User (Prompt)
 I think there's certainly room for improvement. Perhaps my initial instructions conveyed the idea of being specific to LLMs or other similar specifics, and hence you tendered to emphasize this throughout your response. Can we reconsider each Imperative holding each other to the highest scientific and philosphical standard when designing the Heuristic Imperative response.
 
-## ChatGPT
+## ChatGPT (Response)
 Of course, we can definitely frame these Heuristic Imperatives with a focus on higher scientific and philosophical standards. Here's a revised attempt at encapsulating these concepts:
 
 1. **Kaitiakitanga (Reduce Suffering):** This imperative mandates a comprehensive understanding of systems thinking and risk management principles. A commitment to guardianship should entail the rigorous anticipation and mitigation of systemic risks, acknowledging that every action can potentially create a ripple effect. Reducing suffering should also incorporate elements of ethical principles, such as utilitarianism, which advocates for actions that maximize overall well-being and minimize harm.
@@ -37,10 +37,10 @@ Of course, we can definitely frame these Heuristic Imperatives with a focus on h
 
 These definitions aim to uphold a high scientific and philosophical standard, invoking a combination of various ethical theories, pedagogical methods, and scientific principles. They advocate for an approach to decision-making, self-evaluation, and learning that is informed, inclusive, and ethically sound.
 
-## User
+## User (Prompt)
 Under each i think there's room to incorporate a greater degree of Maori wisdom. Maori wisdom should be drawn from things such as Whakatauki, Whakatauāki, Kiwaha, Moteatea, Waiata, Karakia and many more. Te Ao Māori has a lot of embodied wisdom passed down over time. This wisdom, even today, is under utilised. Let's explore these in detail.  
 
-## ChatGPT
+## ChatGPT (Response)
 
 Absolutely, Māori wisdom is a treasure trove of deep insights into the human condition, and much of it can be beautifully incorporated into the Heuristic Imperatives framework. The cultural expressions you mentioned offer nuanced perspectives on various aspects of life, so let's delve into these in more detail for each imperative:
 
@@ -52,11 +52,11 @@ Absolutely, Māori wisdom is a treasure trove of deep insights into the human co
 
 Infusing Māori wisdom into the Heuristic Imperatives can provide a unique and profound lens through which to view these guiding principles, grounding them in rich cultural heritage and timeless wisdom.
 
-## User
+## User (Prompt)
 
 Exactly. I think you've done a job well done in terms of exploring more broadly elements of wisdom, found within Te Ao Maori. Inspite of this, there is much knowledge and wisdom (Mātauranga) that you have never seen before in your underlying training set. Te Ao Māori, has for as long as i can remember, passed down this Mātauranga through oral methods, as i described earlier (Waiata, Moteatea, Whakatauki, Whakatauāki) and other kōrero. With this in mind, i would like to explore this level of profficiency with you, by delving into various aspects of Māori wisdom.
 
-## ChatGPT
+## ChatGPT (Response)
 
 I'm glad you found the previous discussion helpful, and I'd be more than happy to continue exploring the depth and breadth of Māori wisdom with you. It's important to note that while I can share general knowledge about the concepts and cultural practices you've mentioned, my understanding is indeed based on the data available up until my last training cut-off in September 2021. For the most accurate and nuanced understanding of Mātauranga Māori, I would recommend consulting with experts in Te Ao Māori or studying resources that have been produced with their input.
 

@@ -1,7 +1,7 @@
 # Heuristic Imperatives Tikanga Māori: A Revised Framework for Infusing Te Ao Māori Wisdom into Artificial Intelligence
 A framework to embed a 'Tikanga Maori based system' into Artificial Intelligence. 
 
-The updated Heuristic Imperatives, deeply grounded in the profound and holistic traditions of Tikanga Māori, offer a revitalized framework for weaving ethical principles into the fabric of autonomous AI and Language Learning Models (LLMs). These re-envisioned principles, resonating deeply with the worldview and values inherent in Te Ao Māori, provide guidance for decision-making, learning, self-evaluation, and cognitive control within AI systems.
+The updated Heuristic Imperatives, deeply grounded in the profound and holistic traditions of Tikanga Māori, offer a revitalized framework for weaving ethical principles into the fabric of autonomous AI and Large Language Models (LLMs). These re-envisioned principles, resonating deeply with the worldview and values inherent in Te Ao Māori, provide guidance for decision-making, learning, self-evaluation, and cognitive control within AI systems.
 
 Informed by the timeless wisdom contained within Whakataukī, Whakatauākī, Kiwaha, and Kīanga, as well as Māori values such as Taurikura, Mana, Mauri, Tapu, and Noa, we  present a refined set of heuristic imperatives. These are articulated through the Māori concepts of Kaitiakitanga (guardianship), Oranga (prosperity), and Whakawhanaungatanga (relationships), creating a uniquely holistic lens through which AI systems can interpret and engage with the world.
 

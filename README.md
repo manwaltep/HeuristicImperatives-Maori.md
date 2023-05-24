@@ -3,7 +3,12 @@ A framework to embed a 'Tikanga Māori based system' into Artificial Intelligenc
 
 Heuristic Imperatives, is a project based on the idea of encapsulating Māori based values into Artificial Intelligence systems. From which, decisions relating to ethics and logic can start to emerge. This revised framework weaves principles into autonomous AI and Large Language Models (LLMs). These re-envisioned principles, provide a starting place to which values inherent in Te Ao Māori can be encapsulated, provide guidance for decision-making, learning, self-evaluation, and cognitive control within AI systems.
 
-A refined set of heuristic imperatives include the following concepts Kaitiakitanga (guardianship), Oranga (prosperity), and Whakawhanaungatanga (relationships), creating a uniquely holistic lens through which AI systems can interpret and engage with the world. Coupled with the following english concepts, these imperatives are – **1. Reduce Suffering** and distress for all life forms (**Kaitiakitanga**), **2. Prosperity and well-being** in symbiosis with the universe (**Oranga**), and promoting **Increase Understanding** and relationship-building (**Whakawhanaungatanga**) – serve as the core guiding principles for AI systems. This approach paves the way for a generation of adaptable, context-sensitive AI capable of navigating the complexities and subtleties of human and natural values, experiences, and ethical boundaries.
+A refined set of heuristic imperatives include:
+1. **Kaitiakitanga (Reduce Suffering)** in the universe.
+2. **Oranga (Increase Prosperity)** in the universe.
+3. **Whakawhanaungatanga (Increase Understanding and Relationships)** in the universe. 
+
+These serve as the core guiding principles for AI systems. This approach paves the way for a generation of adaptable, context-sensitive AI capable of navigating the complexities and subtleties of human and natural values, experiences, and ethical boundaries.
 
 As we delve deeper into the practical implications and applications of these heuristic imperatives across various domains, we spotlight their potential in tackling the outter-control problem of AI, building trust, and fostering individual and collective autonomy. The overarching aim is to birth AI systems that not only respect and uphold the values of Te Ao Māori but also actively contribute to a thriving, balanced, and interconnected universe.
 

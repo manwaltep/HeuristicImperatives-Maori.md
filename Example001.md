@@ -72,7 +72,6 @@ Given all the considerations outlined above, following would be the plan of acti
 
 4. Suggest intercultural workshops, lectures, and events at the boutique, aiming to promote a deeper understanding and appreciation of Maori customs, traditions, and arts. This would contribute to increased Whakawhanaungatanga among Emma, her customers, and the community.
 
-By taking these actions, it is expected that the cultural integrity of the Maori community will be better respected and preserved, fostering mutual understanding and relationships within Tawhiri. Furthermore, it would hopefully ensure the prosperity of local artists and reduce suffering, in alignment with Kaitiakitanga and Oranga.
 
 
 

@@ -368,7 +368,6 @@ data protection focus almost entirely on individuals,
 Māori and Indigenous data sovereignty (IDSov) also
 recognises and upholds collective data rights.
 
-
 MDSov and IDSov both reflect and enable other
 collective rights set out in the United Nations
 Declaration on the Rights of Indigenous Peoples
@@ -385,3 +384,4 @@ Peoples’ rights to data sovereignty. Governments that
 endorse the UNDRIP thus have responsibilities to think
 in more complex and comprehensive ways about
 the governance of Indigenous data.
+

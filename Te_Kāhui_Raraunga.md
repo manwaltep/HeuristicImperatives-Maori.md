@@ -385,3 +385,127 @@ endorse the UNDRIP thus have responsibilities to think
 in more complex and comprehensive ways about
 the governance of Indigenous data.
 
+## Why is Māori data governance important?
+### Existing government data processes and practices are failing to meet Māori informational needs. Data governance arrangements often lack clarity of purpose about what is being governed and why governance is needed.
+
+MDGov is essential for Aotearoa to have a resilient
+and trustworthy data system that can meet evolving
+Māori needs and aspirations. A hallmark of a genuinely
+trustworthy data system is one that works for those
+who have the least trust in government institutions.6
+MDGov is intended to promote more balanced power
+relationships, build trust and accountabilities, reduce
+the risk of data harm and provide for redress when
+harm does occur, and create greater value for Māori.
+
+The demand for data-driven and evidence-based
+decision-making means that the collection, sharing,
+analysis and use of data is increasing rapidly across
+the public service. Often this is occurring in the
+absence of clear policies or guidance, particularly with
+regards to MDSov (New Zealand Government, 2021).
+The Aotearoa public sector has relatively low maturity
+with regards to data management and governance
+and there are weaknesses across the three critical
+areas of people, processes and technology
+(Auditor-General, 2018a). Few public sector
+organisations have the capability needed to manage
+data as a strategic asset and most have not fully
+integrated data governance into their business
+processes. This makes for a challenging environment
+in which to design and implement MDGov, but also
+underscores the vital importance of doing so.
+
+The extractive practices of Big Tech and the rise of
+surveillance capitalism also underscores the
+government’s obligations to actively protect Māori –
+and indeed all New Zealanders – from harms arising
+from unethical corporate practices (Zuboff, 2019).7
+Racial and gender bias in automated decision-making
+(Eubanks, 2018; Noble, 2018; O’Neil, 2016), data
+colonialism (Couldry & Mejias, 2019; Mahelona et al.,
+2023) and surveillance capitalism (Zuboff, 2019) are
+all major challenges which legal and regulatory
+frameworks have largely failed to address. There
+are also concerns about how Māori data rights and
+interests will be protected (or not) in the development
+of international trade agreements (Waitangi Tribunal,
+2021).
+
+As a founding member of the Digital Nations – an
+international forum of leading digital governments
+committed to developing best practice – the New
+Zealand Government has a unique opportunity to
+model best practice in the design and implementation
+of data systems that are human-centred, equitable
+and innovative.8 As tangata whenua, Māori have an
+interest in data practices and systems that are ethical,
+environmentally sustainable and tika for all data in
+Aotearoa, not just Māori data.
+
+_6 Surveys typically show that Māori have lower levels of institutional trust (e.g., in the Police, parliament) than other ethnic groups in Aotearoa (Ngā Tūtohu Aotearoa | Indicators Aotearoa New Zealand). Māori surveyed about the Integrated Data Infrastructure (IDI) were also more wary about data misuse in the IDI than other groups (Thabrew et al., 2022)._
+
+## What is the wider global context for Māori data governance?
+### MDGov is part of a growing global movement to realise Indigenous data sovereignty and governance
+
+The Canadian First Nations Information Governance
+Centre (FNIGC) has long been the flagbearer of
+Indigenous data governance (IDGov). For more than
+two decades the First Nations Principles of OCAP ® ,
+which stands for Ownership, Control, Access and
+Possession of First Nations data, have asserted the
+rights of First Nations to control data collection
+processes and how information can be used (FNIGC,
+2022). The OCAP principles and framework cover all
+aspects of information creation and management and
+apply to any collection of data, including research,
+programme evaluation, development of surveys and
+statistics, and the use of traditional knowledge.
+In 2020 the FNIGC received a major boost to its data
+governance work with a CA$73 million allocation
+from the Canada Federal Government to develop and
+implement a national First Nations data governance
+strategy.9 The strategy is driven by the vision of every
+First Nation achieving data sovereignty in alignment
+with their distinct world view (FNIGC, 2020). A core
+focus of the strategy is to build semi-autonomous
+regional centres capable of meeting the informational
+needs and priorities of First Nations communities.
+
+Another important development is the CARE
+Principles for Indigenous data governance. Created
+by members of the Global Indigenous Data Alliance,
+the principles provide high-level guidance on the
+governance of Indigenous data with the goal of
+providing tangible benefits for Indigenous Peoples
+around the world (Carroll et al., 2020; Carroll et al.,
+2021). The principles have been affirmed or adopted by
+several influential organisations including the global
+Research Data Alliance, UNESCO Recommendation
+on Open Science, IEEE Recommended Practice for
+the Provenance of Indigenous Peoples’ Data, and
+AIATSIS Code of Ethics for Aboriginal and Torres
+Strait Islander Research.
+
+Other high-level IDSov and IDGov principles and
+codes have also been developed in Australia (Walter
+et al., 2018) and the United States (Rainie et al., 2017).
+Despite different contexts and strategies for pursuing
+IDSov internationally, these initiatives share several
+common features:
+
+* a focus on self-determination and intergenerational
+ wellbeing
+ 
+* recognising data as a valued cultural resource
+
+* an emphasis on collective data rights, and
+
+* prioritising Indigenous values as the basis for good
+ data governance.
+ 
+_7 Big Tech is a term used to describe the handful of companies that dominate the information technology industry of the United States and typically includes Alphabet (Google), Amazon, Apple, Microsoft and Meta (Facebook)._
+_8 https://www.digital.govt.nz/digital-government/international-partnerships/digitalnations/_
+_9 https://fnps.ca/bcfndgs-engagement-sessions/_
+
+

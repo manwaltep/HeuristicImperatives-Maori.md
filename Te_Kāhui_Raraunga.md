@@ -2,20 +2,14 @@
 
 He kura ka huna, he kura ka whākina, e koropupū ana te Wai Ora!
 
-### Authors
-Tahu Kukutai, Kyla Campbell-Kamariera, Aroha Mead, Kirikowhai Mikaere,
+**Authors** Tahu Kukutai, Kyla Campbell-Kamariera, Aroha Mead, Kirikowhai Mikaere,
 Caleb Moses, Jesse Whitehead and Donna Cormack.
-### Copy Editor
-Liz Stone, Shepston Editing Services.
-### Publication Designer
-Janelle Marsters, Ngareta Creative.
-### Copyright
-Copyright for this publication is vested with Te Kāhui Raraunga under a Creative Commons
-Licence 4.0 “Attribution Non-Commercial International”.
-### To cite this publication
-Kukutai, T., Campbell-Kamariera, K., Mead, A., Mikaere, K., Moses, C., Whitehead,
+**Copy Editor** Liz Stone, Shepston Editing Services.
+**Publication Designer** Janelle Marsters, Ngareta Creative.
+**Copyright** Copyright for this publication is vested with Te Kāhui Raraunga under a Creative Commons Licence 4.0 “Attribution Non-Commercial International”.
+**To cite this publication** Kukutai, T., Campbell-Kamariera, K., Mead, A., Mikaere, K., Moses, C., Whitehead,
 J. & Cormack, D. (2023). Māori data governance model. Te Kāhui Raraunga.
-### Acknowledgements
+#### Acknowledgements
 We want to start by acknowledging the pioneering work of Whetu Wereta, Darin Bishop
 and those who contributed to the Māori Statistics Framework more than two decades ago.
 Their vision and dedication laid the foundations for this work. We thank the many individuals
@@ -35,56 +29,55 @@ images generously shared for our use, to reaffirm our te ao Māori view of data 
 governance and to depict the Vision of the Māori Data Governance Model: Tuia te korowai
 o Hine-Raraunga.
 
-### He Karakia He Mihi
-##### Tui Tui Tuituia
-##### Tuia te Rangi e tū nei
-##### Tuia te Papa e takoto nei
-##### Tuia te marere kura
-##### Tuia te marere pae
-##### Tuia ki te Ihiihi nuku
-##### Tuia ki te Ihiihi rangi
-##### Tuia ki te korowai o Hine-Raraunga e
-##### Haumi e! Hui e! Taiki e!
-##### E ngā rau tinitini, e ngā rau manomano
-##### Ko te korowai o Hine-Raraunga tēnei
-##### te tukua atu ki te tuai nuku, ki te tuai rangi.
-##### Nō te ao Māori te pū o te whakaaro kia eke ki tā te Tiriti i wawata ai.
-##### Purea ana te tau raraunga o Mana Motuhake.
-##### Hei aha rā? Hei whakaū i ngā kohikohinga kōrero a te whānau,
-##### a te hapū, a ngā iwi, e mōhio ai, e mārama ai, e motuhake ai.
-##### Whiria kia tika, whiria kia pono, whiria te korowai o
-##### Hine-Raraunga ki tōna taumata tiketike e.
+#### Karakia
+
+_He Karakia He Mihi_  
+
+_Tui Tui Tuituia_  
+
+_Tuia te Rangi e tū nei_  
+
+_Tuia te Papa e takoto nei_  
+
+_Tuia te marere kura_  
+
+_Tuia te marere pae_  
+
+_Tuia ki te Ihiihi nuku_  
+
+_Tuia ki te Ihiihi rangi_  
+
+_Tuia ki te korowai o Hine-Raraunga e_  
+
+_Haumi e! Hui e! Taiki e!_  
+
+_E ngā rau tinitini, e ngā rau manomano_  
+
+_Ko te korowai o Hine-Raraunga tēnei_  
+
+_te tukua atu ki te tuai nuku, ki te tuai rangi._  
+
+_Nō te ao Māori te pū o te whakaaro kia eke ki tā te Tiriti i wawata ai._  
+
+_Purea ana te tau raraunga o Mana Motuhake._  
+
+_Hei aha rā? Hei whakaū i ngā kohikohinga kōrero a te whānau,_  
+
+_a te hapū, a ngā iwi, e mōhio ai, e mārama ai, e motuhake ai._  
+
+_Whiria kia tika, whiria kia pono, whiria te korowai o_  
+
+_Hine-Raraunga ki tōna taumata tiketike e._
+
 
 ### Executive Summary
-This report describes the Māori Data Governance Model that has been designed by Māori data
-experts for use across the Aotearoa New Zealand public service. Māori data is a taonga that
-requires culturally grounded models of protection and care. The Model provides guidance for
-the system-wide governance of Māori data, consistent with the Government’s responsibilities
-under te Tiriti o Waitangi. The Model is intended to assist all agencies to undertake Māori data
-governance in a way that is values-led, centred on Māori needs and priorities, and informed
-by research. This is important because existing government data processes and
-practices are failing to meet Māori informational needs.
-The Vision, Tuia te korowai o Hine-Raraunga – Data for
-self-determination, enables iwi, hapū and Māori organisations,
-businesses and communities to pursue their own goals for
-cultural, social, economic and environmental wellbeing.
-Eight Data Pou or pillars define critical areas of data
-governance and specify the actions that should be
-undertaken to realise six desired outcomes. The Model
-does not cover every element of data governance;
-instead, it focuses on key priorities and actions, against
-which agencies can assess their level of data maturity.
-The Model explicitly recognises the need for changes
-to system leadership, policies and legal settings so
-that Māori can exercise authority over Māori data
-to reduce unethical data use and strengthen
-outcomes for individuals, whānau and
-communities. The report also identifies
-the need for strategic investment in
-a Mana Motuhake data system that
-sits outside of the public sector to
-ensure iwi and hapū sovereignty
-over iwi and hapū data.
+This report describes the Māori Data Governance Model that has been designed by Māori data experts for use across the Aotearoa New Zealand public service. Māori data is a taonga that requires culturally grounded models of protection and care. The Model provides guidance for the system-wide governance of Māori data, consistent with the Government's responsibilities under te Tiriti o Waitangi. The Model is intended to assist all agencies to undertake Māori data governance in a way that is values-led, centered on Māori needs and priorities, and informed by research. This is important because existing government data processes and practices are failing to meet Māori informational needs.
+
+The Vision, Tuia te korowai o Hine-Raraunga - Data for self-determination, enables iwi, hapū and Māori organisations, businesses and communities to pursue their own goals for cultural, social, economic and environmental wellbeing.
+
+Eight Data Pou or pillars define critical areas of data governance and specify the actions that should be undertaken to realize six desired outcomes. The Model does not cover every element of data governance; instead, it focuses on key priorities and actions, against which agencies can assess their level of data maturity.
+
+The Model explicitly recognizes the need for changes to system leadership, policies, and legal settings so that Māori can exercise authority over Māori data to reduce unethical data use and strengthen outcomes for individuals, whānau and communities. The report also identifies the need for strategic investment in a Mana Motuhake data system that sits outside of the public sector to ensure iwi and hapū sovereignty over iwi and hapū data.
 
 ### Vision - Data for self-determination 
 ### Tuia te korowai o Hine-Raraunga
@@ -123,100 +116,31 @@ inequities.
 7. Data quality and system integrity
 8. Data classificiation
 
-# Table of Contents
-#### Executive Summary
-#### Table of Contents
-#### List of Figures
-#### Definitions
-#### Glossary
-#### Initialisms
-
-#### PART 1: INTRODUCTION
-* Purpose of this report
-* What is Māori data governance?
-* Why is Māori data governance important?
-* What is the wider global context for Māori data governance?
-* Who is this report for?
-* Background and engagement to date
-* Waka Hourua: Tiriti partnership and Mana Motuhake
-
-#### PART 2: THE MĀORI DATA GOVERNANCE MODEL
-* Te Tiriti o Waitangi as the Model foundation
-* Model scoping and development
-* How to use the Model
-* Vision
-	* Desired Outcomes
-	* Guiding Values
-	* Authority
-* Māori Data Governance Pou
-	* Pou 1 | Data capacities and workforce development
-	* Pou 2 | Data infrastructure
-	* Pou 3 | Data collection
-	* Pou 4 | Data protection
-	* Pou 5 | Data access, sharing and repatriation
-	* Pou 6 | Data use and reuse
-	* Pou 7 | Data quality and system integrity
-	* Pou 8 | Data classification
-#### PART 3: MOVING FORWARD
-* Next steps
-
 ### Definitions
-#### algorithms
-A series of steps through which particular inputs can
-be turned into outputs. An algorithmic system is a
-system that uses one or more algorithms to produce
-outputs that can be used for making decisions.
-#### Crown
-The Crown means the Sovereign and includes all
-ministers of the Crown, all public service agencies
-and all non-public service departments.
-#### data harm
-Data harm refer to the adverse effects caused by uses
-of data that damage or set back a person, group,
-entity or society’s interests.
-#### data repatriation
-Indigenous data repatriation means returning
-Indigenous data to Indigenous rights-holders,
-whether individuals or collectives. This differs from
-data repatriation in cloud computing which usually
-means returning data and applications from the cloud
-to a traditional enterprise data centre.
-#### interoperability
-The ability of different systems, devices, applications
-or products to connect and work with other products
-of systems.
-#### Māori
-The term Māori, as used in this report, include all
-individuals and collectives self-identified or
-recognised as Māori, including hapū, iwi and hapori.
-1 For a comprehensive description of data harm, see Redden, Brand & Terzieva (2020).
-2 For definitions of Māori data, see Te Kāhui Raraunga (2021a) and Te Mana Raraunga (2018).
-#### Māori data
-Māori data refers broadly to digital or digitisable data,
-information or knowledge (including mātauranga
-Māori) that is about, from or connected to Māori.
-It includes data about population, place, culture and
-environment. 2
-#### Māori data governance
-The principles, structures, accountability mechanisms,
-legal instruments and policies through which Māori
-exercise control over Māori data.
-#### Māori data sovereignty
-The inherent rights and interests that Māori have in
-relation to the collection, ownership and application
-of Māori data.
-#### public service
-The public service is defined in section 10 of the
-Public Service Act 2020 to mean public service
-agencies. The Act also includes Crown agents for
-the purposes of subparts 2 and 4 of part 1 of the Act
-relating to values and behaviours.
-#### public sector
-The public sector includes the public service,
-state sector and local government.
-#### surveillance capitalism
-A system built around the harvesting and
-commodification of personal data for profit.
+
+**Algorithms** A series of steps through which particular inputs can be turned into outputs. An algorithmic system is a system that uses one or more algorithms to produce outputs that can be used for making decisions.
+
+**Crown** The Crown means the Sovereign and includes all ministers of the Crown, all public service agencies, and all non-public service departments.
+
+**Data harm** Data harm refers to the adverse effects caused by uses of data that damage or set back a person, group, entity, or society's interests.
+
+**Data repatriation** Indigenous data repatriation means returning Indigenous data to Indigenous rights-holders, whether individuals or collectives. This differs from data repatriation in cloud computing, which usually means returning data and applications from the cloud to a traditional enterprise data center.
+
+**Interoperability** The ability of different systems, devices, applications, or products to connect and work with other products or systems.
+
+**Māori** The term Māori, as used in this report, includes all individuals and collectives self-identified or recognized as Māori, including hapū, iwi, and hapori.
+
+**Māori data** Māori data refers broadly to digital or digitizable data, information, or knowledge (including mātauranga Māori) that is about, from, or connected to Māori. It includes data about population, place, culture, and environment.
+
+**Māori data governance** The principles, structures, accountability mechanisms, legal instruments, and policies through which Māori exercise control over Māori data.
+
+**Māori data sovereignty** The inherent rights and interests that Māori have in relation to the collection, ownership, and application of Māori data.
+
+**Public service** The public service is defined in section 10 of the Public Service Act 2020 to mean public service agencies. The Act also includes Crown agents for the purposes of subparts 2 and 4 of part 1 of the Act relating to values and behaviors.
+
+**Public sector** The public sector includes the public service, state sector, and local government.
+
+**Surveillance capitalism** A system built around the harvesting and commodification of personal data for profit.
 
 # Glossary
 

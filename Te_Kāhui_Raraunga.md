@@ -260,6 +260,7 @@ inequities.
 
 # Purpose of this report
 ### This report describes the Māori Data Governance model (the Model) that has been designed by Māori data experts for use across the Aotearoa New Zealand public service.
+
 The Model was developed as part of the
 ground-breaking Mana Ōrite Relationship
 Agreement between the Data Iwi Leaders Group
@@ -273,6 +274,7 @@ care.3, 4 The Model sets clear expectations for the
 system-wide governance of Māori data, and
 provides direction on the actions, processes and
 activities needed to meet these expectations.
+
 Good data practices and policies are crucial for
 achieving resilient and sustainable data systems
 that people can trust and benefit from. There are
@@ -298,6 +300,7 @@ biodiversity (Department of Conservation, 2020),
 and inform climate change mitigation and adaptation,
 and crisis response (Ministry for the Environment &
 Stats NZ, 2022).
+
 However, major changes are needed to meet the
 current and future data needs of Māori (Kukutai
 & Cormack, 2020; New Zealand Government, 2021;
@@ -319,6 +322,7 @@ included in multiple government data sets. The result
 is that Māori disproportionately contribute to public
 sector data assets, but do not receive the full benefits
 and insights that such data can provide.
+
 There are also risks arising from unethical practices
 that cause data harm to individuals and whānau. Data
 harm can take many forms, from algorithmic profiling
@@ -505,7 +509,9 @@ common features:
  data governance.
  
 _7 Big Tech is a term used to describe the handful of companies that dominate the information technology industry of the United States and typically includes Alphabet (Google), Amazon, Apple, Microsoft and Meta (Facebook)._
+
 _8 https://www.digital.govt.nz/digital-government/international-partnerships/digitalnations/_
+
 _9 https://fnps.ca/bcfndgs-engagement-sessions/_
 
 

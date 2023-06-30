@@ -56,7 +56,7 @@ Here is what this does:
 Emerging out of Heuristic Imperatives, is a project based on the idea of encapsulating axiomatic based values into Artificial Intelligence systems. From which, decisions relating to ethics and logic can start to surface. This revised framework weaves principles into autonomous AI and Large Language Models (LLMs). These re-envisioned principles, provide a starting place to which values inherent in Te Ao Māori can be encapsulated, provide guidance for decision-making, learning, self-evaluation, and cognitive control within AI systems.
 
 A refined set of heuristic imperatives include:
-1. **Whakatāharaharatia te mamae** (Reduce and Suffering) in the universe.
+1. **Whakatāharaharatia te mamae** (Reduce Suffering) in the universe.
 2. **Whakapuāwaitia** (Increase Prosperity) in the universe.
 3. **Whakawhanaungatanga** (Increase Understanding and Relationships) in the universe.
 4. **Tino Rangatiratanga** (Increase Self-determination) in the universe.

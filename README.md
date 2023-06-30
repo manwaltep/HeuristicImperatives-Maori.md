@@ -1,14 +1,66 @@
 # Heuristic Imperatives Tikanga Māori: A Revised Framework for Infusing Te Ao Māori Wisdom into Artificial Intelligence
-A framework to embed a 'Tikanga Māori based system' into Artificial Intelligence. 
+## Artificial Intelligence Alignment Problem (General)
+
+Researchers in the field of AI are focusing on the Artificial Intelligence Alignment Problems to ensure that the development and implementation of AI aligns with the values and interests of humanity.
+The Artificial Intelligence Alignment Problems are gaining significant attention as AI technologies advance, highlighting the need to ensure that these systems align with human values, objectives, and ethical norms.
+
+One facet of Artificial Intelligence Alignment Problems is **inner alignment**, which aims to create AI models like GPT-4, Davinci, and others that inherently possess the capacity to comprehend and adhere to human values.
+The challenge of **outer alignment**, a key component of Artificial Intelligence Alignment Problems, involves configuring the structures and mechanisms of AI systems in a way that they align seamlessly with human societal values.
+Addressing Artificial Intelligence Alignment Problems is critical, not only for ensuring that AI technologies like GPT-4 and Davinci respect and operate within the framework of human values, but also for maintaining trust in AI systems and mitigating potential risks.
+
+Artificial Intelligence Alignment Problems are not just technical obstacles but also ethical dilemmas that need to be navigated carefully, as they involve aligning AI entities and models with human-centric values and considerations.
+To find feasible solutions to Artificial Intelligence Alignment Problems, AI developers and ethicists are working hand-in-hand to ensure both the inner and outer alignment of AI systems with human values.
+Experts in AI and ethics emphasize that failure to address Artificial Intelligence Alignment Problems can lead to undesirable consequences, potentially causing AI systems to operate counter to human values and societal norms.
+
+Artificial Intelligence Alignment Problems pose a significant challenge to AI developers, who must ensure that AI models and their broader structures remain consistent with human values throughout their development and operational phases.
+The focus on Artificial Intelligence Alignment Problems is a testament to the field's commitment to ensuring that the benefits of AI technologies are maximized while minimizing potential harms and ethical issues.
+
+**Inner Alignment** discusses how to align an Artificial Intelligence model, such as Curie, Babbage, Davinci, GPT-3.5-turbo, Gpt-4 so forth and so on, to those such as human values.  
+
+**Outter Alignment** discusses how to align the structures and entities of Artificial Intelligence to human values. 
+
+## Artificial Intelligence Alignment Problem (Te Ao Māori)
+The Artificial Intelligence Alignment Problems and their relevance to the concern about AI "colonising" Te Reo Maori, the indigenous language of the Maori people of New Zealand, revolve around ensuring that AI systems respect and align with the cultural values, nuances, and specific contexts inherent in this language.
+
+One facet of the issue involves "inner alignment" – ensuring that AI models have an intrinsic understanding and respect for Te Reo Maori, its cultural nuances, and the unique values it embodies. This includes AI being capable of interpreting and using the language in a culturally sensitive and accurate manner.
+
+"Outer alignment" involves shaping AI's structures and mechanisms to align with the societal and cultural values represented by Te Reo Maori. This means that AI systems should be developed and deployed in ways that respect Maori culture and language, rather than imposing a "colonising" influence that could potentially distort or dilute these cultural aspects.
+
+Addressing these AI alignment issues is crucial in mitigating the risk of AI systems inadvertently causing cultural harm, such as misinterpreting, misrepresenting, or erasing important elements of Te Reo Maori and Maori culture.
+
+The concern about AI "colonising" Te Reo Maori underscores the broader need for AI systems to be designed and implemented with a deep understanding and respect for local cultures, languages, and values, a challenge that lies at the heart of the Artificial Intelligence Alignment Problems.
+
+In this context, AI developers and stakeholders have a responsibility to engage with Maori communities, language experts, and cultural advisors to ensure that AI technologies align effectively with Te Reo Maori and do not inadvertently "colonise" or harm this significant cultural heritage.
+
+## Axiomatic Alignment (Te Ao Maori)
+In the context of Artificial Intelligence, an axiom is a statement or principle that is accepted as being true without requiring proof, serving as a basis for logical reasoning and further deductions in a particular system of knowledge. axiomatic alignment refers to the process of guiding the behaviour, learning, and decision-making processes of an AI system. 
+
+These axioms act as core values or hard-wired rules that the AI cannot violate, ensuring its actions and decisions align with the desired outcomes or ethical standards established by its designers or stakeholders. Axiomatic alignment is one avenue that may support and address the Artificial Intelligence Alignment Problem, ensuring that AI systems behave in ways that align with human values, safety requirements, and ethical norms. 
+
+Te Reo Maori, is the native language of tangata Māori (Māori people). Te Reo Māori has a rich oral and written tradition that encapsulates Māori history, culture, and values. Te Reo Māori is considered a taonga, or treasure, and efforts have been made to revitalise and see it thrive in New Zealand society. Its unique structure and idioms offer deep insights into the worldview of the tangata Māori, making its preservation and respectful usage a matter of cultural significance.
+
+The lack of axioms or logical grounding is the biggest problem with Reinforcement Learning with Human Feedback (RLHF). By grounding axioms in **Tikanga** it's intended that grounding documents, systems, and processes into axioms establishes a fundamental set of principles or rules that guide the operation, decision-making, and overall function of these entities. 
+
+Here is what this does:
+
+1. **Provides Clear Guidelines:** Axioms offer a clear set of foundational rules or principles that need to be adhered to. This can provide a roadmap for actions and decisions, helping ensure consistency and adherence to the intended purpose or ethical standards.
+
+2. **Facilitates Predictability:** When documents, systems, or processes are grounded in axioms, their behavior or outcomes become more predictable, as they operate based on the predefined axiomatic rules. This can reduce uncertainty and improve reliability.
+
+3. **Ensures Ethical Compliance:** In contexts where the axioms represent ethical norms or societal values, grounding systems in these axioms can help ensure that they operate in an ethically sound and socially responsible manner.
+
+4. **Enhances Transparency and Trust:** Axiomatic principles can be shared with stakeholders, helping them understand how a particular system or process operates or makes decisions. This can foster 
+
+## A framework to embed a 'Tikanga Māori based system' into Artificial Intelligence. 
 
 Heuristic Imperatives, is a project based on the idea of encapsulating Māori based values into Artificial Intelligence systems. From which, decisions relating to ethics and logic can start to emerge. This revised framework weaves principles into autonomous AI and Large Language Models (LLMs). These re-envisioned principles, provide a starting place to which values inherent in Te Ao Māori can be encapsulated, provide guidance for decision-making, learning, self-evaluation, and cognitive control within AI systems.
 
 A refined set of heuristic imperatives include:
-1. **Kaitiakitanga (Reduce Suffering)** in the universe.
-2. **Oranga (Increase Prosperity)** in the universe.
-3. **Whakawhanaungatanga (Increase Understanding and Relationships)** in the universe. 
-4. **Tino Rangatiratanga (Increase Self-determination)** in the universe.
-5. **Mana Mouhake (Increase Self-governance)** in the universe.
+1. **Whakatāharaharatia te mamae** (Reduce and Suffering) in the universe.
+2. **Whakapuāwaitia** (Increase Prosperity) in the universe.
+3. **Whakawhanaungatanga** (Increase Understanding and Relationships) in the universe.
+4. **Tino Rangatiratanga** (Increase Self-determination) in the universe.
+5. **Mana Motuhake** (Increase Self-governance) in the universe.
 
 These serve as the core guiding principles for AI systems. This approach paves the way for a generation of adaptable, context-sensitive AI capable of navigating the complexities and subtleties of human and natural values, experiences, and ethical boundaries.
 

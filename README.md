@@ -13,7 +13,7 @@ To find feasible solutions to Artificial Intelligence Alignment Problems, AI dev
 Experts in AI and ethics emphasize that failure to address Artificial Intelligence Alignment Problems can lead to undesirable consequences, potentially causing AI systems to operate counter to human values and societal norms.
 
 Artificial Intelligence Alignment Problems pose a significant challenge to AI developers, who must ensure that AI models and their broader structures remain consistent with human values throughout their development and operational phases.
-The focus on Artificial Intelligence Alignment Problems is a testament to the field's commitment to ensuring that the benefits of AI technologies are maximized while minimizing potential harms and ethical issues.
+The focus on Artificial Intelligence Alignment Problems is a testament to the field's commitment to ensuring that the benefits of AI technologies are maximized while minimising potential harms and ethical issues.
 
 **Inner Alignment** discusses how to align an Artificial Intelligence model, such as Curie, Babbage, Davinci, GPT-3.5-turbo, Gpt-4 so forth and so on, to those such as human values.  
 
@@ -37,9 +37,9 @@ In the context of Artificial Intelligence, an axiom is a statement or principle 
 
 These axioms act as core values or hard-wired rules that the AI cannot violate, ensuring its actions and decisions align with the desired outcomes or ethical standards established by its designers or stakeholders. Axiomatic alignment is one avenue that may support and address the Artificial Intelligence Alignment Problem, ensuring that AI systems behave in ways that align with human values, safety requirements, and ethical norms. 
 
-Te Reo Maori, is the native language of tangata Māori (Māori people). Te Reo Māori has a rich oral and written tradition that encapsulates Māori history, culture, and values. Te Reo Māori is considered a taonga, or treasure, and efforts have been made to revitalise and see it thrive in New Zealand society. Its unique structure and idioms offer deep insights into the worldview of the tangata Māori, making its preservation and respectful usage a matter of cultural significance.
+Te Reo Maori, is the native language of tangata Māori (Māori people). Te Reo Māori has a rich oral and written tradition that encapsulates Māori history, culture, and values. Te Reo Māori is considered a taonga, or treasure, and efforts have been made to revitalise and see it thrive in New Zealand society. Its unique structure and idioms offer deep insights into the worldview of tangata Māori, making its preservation and respectful usage a matter of cultural significance.
 
-The lack of axioms or logical grounding is the biggest problem with Reinforcement Learning with Human Feedback (RLHF). By grounding axioms in **Tikanga** it's intended that grounding documents, systems, and processes into axioms establishes a fundamental set of principles or rules that guide the operation, decision-making, and overall function of these entities. 
+The lack of axioms or logical grounding is the biggest problem with Reinforcement Learning with Human Feedback (RLHF). It's intended that by grounding documents, systems, and processes into axioms establishes a fundamental set of principles or rules that guide the operation, decision-making, and overall function of these entities. 
 
 Here is what this does:
 
